@@ -1,4 +1,4 @@
-🏦 FinChurn – Intelligent Bank Customer Churn Prediction System
+# 🏦 FinChurn – Intelligent Bank Customer Churn Prediction System
 <p align="center"> <img src="https://img.shields.io/badge/FinChurn-Bank%20Customer%20Churn%20Prediction-blueviolet?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
 A complete end-to-end Machine Learning project that predicts which bank customers are likely to churn, enabling banks to make data-driven retention decisions.
