@@ -1,17 +1,8 @@
-# 🏦 FinChurn – Intelligent Bank Customer Churn Prediction System
-<p align="center"> <img src="https://img.shields.io/badge/FinChurn-Bank%20Customer%20Churn%20Prediction-blueviolet?style=for-the-badge&logo=python&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/FinChurn-Bank%20Customer%20Churn%20Prediction-blueviolet?style=for-the-badge&logo=python&logoColor=white" /> </p> <h1 align="center">⭐🏦 FinChurn – Intelligent Bank Customer Churn Prediction System</h1> <p align="center"> <b>An end-to-end ML system to predict which customers are likely to leave the bank using clean preprocessing, feature engineering, and multiple machine-learning algorithms.</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Analytics-EDA-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Models-Logistic%20%7C%20RF%20%7C%20GBoost-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" /> </p>
 
-A complete end-to-end Machine Learning project that predicts which bank customers are likely to churn, enabling banks to make data-driven retention decisions.
-This project includes clean preprocessing, feature engineering, model training, evaluation, and comparison across multiple ML algorithms.
-
-# 🚀 Project Highlights
-✔ Predict bank customer churn with high accuracy
-✔ Clean & structured EDA + preprocessing
-✔ Feature engineering & encoding
-✔ Trained 3 ML algorithms
-✔ Confusion matrix + classification report
-✔ Model comparison table
-✔ Fully reproducible code
+# 📘 Project Overview
+FinChurn is an advanced machine-learning project designed to predict bank customer churn using structured customer demographics, account activity, and behavioral patterns.
+This end-to-end system includes data preprocessing, EDA, feature engineering, ML modeling, and model evaluation to identify customers most likely to leave the bank.
 
 # 🧠 Algorithms Used
 This project compares multiple machine-learning models:
