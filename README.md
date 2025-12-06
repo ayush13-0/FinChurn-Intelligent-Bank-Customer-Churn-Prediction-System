@@ -62,5 +62,20 @@ Target Variable:
 - Deployment using Flask / FastAPI
 - Build an interactive dashboard
 
+# 🤝 Contributions
+~ AYUSH
+- Pull requests are welcome!
+- If you find bugs or want new features, feel free to open an issue.
+
+⭐ Support This Project
+- If you like this repository, don’t forget to star ⭐ it on GitHub!
+
+# 👨‍💻 Author
+# Ayush
+Aspiring Data Scientist & Analyst
+- 📫 Email: bhanuseenu914@gmail.com
+- 🌐 GitHub: https://github.com/ayush13-0
+- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
+
 # 🛡️ License
 - This project is licensed under the MIT License.
